@@ -1,0 +1,26 @@
+.Container{
+
+	margin-left:  20px;
+	margin-right: 20px;
+	
+}
+h3{
+	font-size: 40px;
+}
+h2{
+	font-size: 25px;
+}
+h1{
+	font-size: 60px;
+}
+.navbar{
+	background-color: #1E90FF;
+	color: 	#000000;
+	font-weight: bold;
+	
+}
+.panel{
+	background-color: #1E90FF;
+	color: 	#000000;
+	font-weight: bold;
+}
